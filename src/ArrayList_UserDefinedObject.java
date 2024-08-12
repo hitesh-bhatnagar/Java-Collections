@@ -33,7 +33,7 @@ public class ArrayList_UserDefinedObject{
         List<User> users = new ArrayList<User>();
         users.add(new User("John",34));
         users.add(new User("ram",56));
-        users.add(new User("sunny",65));
+        users.add(new User("Rohan",65));
 
         users.forEach(user ->{
             System.out.println("Name: " + user.getName()+ ", Age : " + user.getAge());
