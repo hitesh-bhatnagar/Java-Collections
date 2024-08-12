@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="Testing">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList_UserDefinedObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessElementsFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessElementsFromArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayListObjectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListObjectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListSortExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hitesh-bhatnagar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hitesh-bhatnagar/Java-Collections.git",
+    "accountId": "5485c82c-4921-4c48-bfe4-a073bf66a2f4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -34,6 +45,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AccessElementsFromArrayList.executor": "Run",
     "Application.ArrayListSortExample.executor": "Run",
+    "Application.ArrayList_UserDefinedObject.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -64,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723483522183</updated>
-      <workItem from="1723483523317" duration="5960000" />
+      <workItem from="1723483523317" duration="6811000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <option name="closed" value="true" />
@@ -74,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723484687311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1723492306514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723492306514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
