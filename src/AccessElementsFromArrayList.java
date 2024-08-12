@@ -20,14 +20,14 @@ public class AccessElementsFromArrayList {
         // Retrieve the element at a given index
         String bestCompany = topcompanies.get(0);
         String secondbestCompany = topcompanies.get(1);
-        String lastbestcompany = topcompanies.get(topcompanies.size() - 1);
+        String lastbestcompany = topcompanies.getLast();
 
         System.out.println(bestCompany);
         System.out.println(secondbestCompany);
         System.out.println(lastbestcompany);
 
         // Modify the element at a given index
-        topcompanies.set(4,"Walmart" );
+        topcompanies.add(3,"Walmart" );
         System.out.println("modified top companies list "+ topcompanies);
 
     }

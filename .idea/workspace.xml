@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
+    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="Testing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessElementsFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessElementsFromArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListObjectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListObjectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListSortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListSortExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +22,18 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2kZG7jmDiBAnitBjZbtfDELn6yS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AccessElementsFromArrayList.executor": "Run",
+    "Application.ArrayListSortExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -42,6 +44,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "E:/# ADV CC/Java_Collections/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,11 +64,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723483522183</updated>
-      <workItem from="1723483523317" duration="979000" />
+      <workItem from="1723483523317" duration="5960000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1723484687311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723484687311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
 </project>
