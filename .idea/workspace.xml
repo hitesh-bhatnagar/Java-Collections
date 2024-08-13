@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList_UserDefinedObject.java" afterDir="false" />
+    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="Day 01 completed &#10;Array List">
+      <change afterPath="$PROJECT_DIR$/src/CreateArrayListExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListObjectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListObjectSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hitesh-bhatnagar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hitesh-bhatnagar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hitesh-bhatnagar/Java-Collections.git",
-    "accountId": "5485c82c-4921-4c48-bfe4-a073bf66a2f4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hitesh-bhatnagar/Java-Collections.git&quot;,
+    &quot;accountId&quot;: &quot;5485c82c-4921-4c48-bfe4-a073bf66a2f4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kZG7jmDiBAnitBjZbtfDELn6yS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,6 +45,7 @@
     "Application.AccessElementsFromArrayList.executor": "Run",
     "Application.ArrayListSortExample.executor": "Run",
     "Application.ArrayList_UserDefinedObject.executor": "Run",
+    "Application.CreateArrayListExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -76,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723483522183</updated>
-      <workItem from="1723483523317" duration="6811000" />
+      <workItem from="1723483523317" duration="7057000" />
+      <workItem from="1723564091622" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <option name="closed" value="true" />
@@ -94,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723492306514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 01 completed &#10;Array List">
+      <option name="closed" value="true" />
+      <created>1723493189083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723493189083</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 01 completed &#10;Array List">
+      <option name="closed" value="true" />
+      <created>1723493306333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723493306333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+    <MESSAGE value="Day 01 completed &#10;Array List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 01 completed &#10;Array List" />
   </component>
 </project>
