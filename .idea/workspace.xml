@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="Day 02 completed &#10;Array List continued">
-      <change afterPath="$PROJECT_DIR$/src/List_Iterator_Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List_Iterator_Example.java" afterDir="false" />
+    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="ListIterator() function">
+      <change afterPath="$PROJECT_DIR$/src/AccessKeysFromHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSET.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSETExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IgnoreDuplicateElements.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IterateOverArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IterateOverArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,7 @@
     "Application.ArrayListSortExample.executor": "Run",
     "Application.ArrayList_UserDefinedObject.executor": "Run",
     "Application.CreateArrayListExample.executor": "Run",
+    "Application.HashSET.executor": "Run",
     "Application.IterateOverArrayList.executor": "Run",
     "Application.List_Iterator_Example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +88,7 @@
       <workItem from="1723564091622" duration="3243000" />
       <workItem from="1723602555764" duration="2435000" />
       <workItem from="1723656503845" duration="27000" />
-      <workItem from="1723661058771" duration="6218000" />
+      <workItem from="1723661058771" duration="16934000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <option name="closed" value="true" />
@@ -127,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723569343153</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some more topics for ArrayList">
+      <option name="closed" value="true" />
+      <created>1723735979886</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723735979886</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ListIterator() function">
+      <option name="closed" value="true" />
+      <created>1723735996817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723735996817</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +157,8 @@
     <MESSAGE value="Testing" />
     <MESSAGE value="Day 01 completed &#10;Array List" />
     <MESSAGE value="Day 02 completed &#10;Array List continued" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 02 completed &#10;Array List continued" />
+    <MESSAGE value="Some more topics for ArrayList" />
+    <MESSAGE value="ListIterator() function" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListIterator() function" />
   </component>
 </project>
