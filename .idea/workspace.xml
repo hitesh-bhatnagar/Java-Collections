@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="ListIterator() function">
-      <change afterPath="$PROJECT_DIR$/src/AccessKeysFromHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashSET.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashSET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashSETExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IgnoreDuplicateElements.class" afterDir="false" />
+    <list default="true" id="98a24aca-473c-4e22-ba6f-66db26dd0302" name="Changes" comment="files added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,31 +38,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AccessElementsFromArrayList.executor": "Run",
-    "Application.ArrayListSortExample.executor": "Run",
-    "Application.ArrayList_UserDefinedObject.executor": "Run",
-    "Application.CreateArrayListExample.executor": "Run",
-    "Application.HashSET.executor": "Run",
-    "Application.IterateOverArrayList.executor": "Run",
-    "Application.List_Iterator_Example.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/# ADV CC/ADV_CC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/# ADV CC/Java_Collections/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AccessElementsFromArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListSortExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList_UserDefinedObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSET.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IterateOverArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_Iterator_Example.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/# ADV CC/ADV_CC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/# ADV CC/Java_Collections/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +83,8 @@
       <workItem from="1723564091622" duration="3243000" />
       <workItem from="1723602555764" duration="2435000" />
       <workItem from="1723656503845" duration="27000" />
-      <workItem from="1723661058771" duration="16934000" />
+      <workItem from="1723661058771" duration="17031000" />
+      <workItem from="1723985622862" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <option name="closed" value="true" />
@@ -146,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723735996817</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="files added">
+      <option name="closed" value="true" />
+      <created>1723876348786</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723876348786</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +163,7 @@
     <MESSAGE value="Day 02 completed &#10;Array List continued" />
     <MESSAGE value="Some more topics for ArrayList" />
     <MESSAGE value="ListIterator() function" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListIterator() function" />
+    <MESSAGE value="files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="files added" />
   </component>
 </project>
